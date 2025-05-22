@@ -103,6 +103,8 @@ Pasos para Registrarse (Nuevos Usuarios):
   - Busca la canción que deseas guardar (usa la función "Buscar" si es necesario).  
 - Una vez que la encuentres, haz clic en el botón de "🌟" (estrella ) o en "Añadir a Favoritos".  
 -. La canción se guardará automáticamente en tu lista de favoritos.
+
+
 GRABAR AUDIO
 . Haz clic en "Audio" en la barra inferior.  
 -. Presiona el botón "Grabar" (micrófono blanco) para comenzar.  
