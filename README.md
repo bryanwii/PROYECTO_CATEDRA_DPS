@@ -99,38 +99,20 @@ Pasos para Registrarse (Nuevos Usuarios):
 2. Completa el formulario con los siguientes datos:  
    - Nombre de usuario.  
     -Contraseña segura.    
-3. PANTALLA PRINCIPAL
-Al ingresar, verás:
-•	Barra superior: Búsqueda.
-•	Menú inferior:
-o	Inicio: Recomendaciones y novedades.
-o	Buscar: Explorar música por género, artista o lista.
-o	Favoritos: Tus canciones y playlists guardadas.
-o	Audio: Grabar o reproducir notas de voz
+  GUARDAR CANCIONES
+  - Busca la canción que deseas guardar (usa la función "Buscar" si es necesario).  
+- Una vez que la encuentres, haz clic en el botón de "🌟" (estrella ) o en "Añadir a Favoritos".  
+-. La canción se guardará automáticamente en tu lista de favoritos.
+GRABAR AUDIO
+. Haz clic en "Audio" en la barra inferior.  
+-. Presiona el botón "Grabar" (micrófono blanco) para comenzar.  
+-. Cuando termines, presiona "Detener” para finalizar la grabación.  
+-. Tu audio se guardará automáticamente y podrás reproducirlo.  
 
-1. Busca la canción que deseas guardar (usa la función "Buscar" si es necesario).  
-2. Una vez que la encuentres, haz clic en el botón de "🌟" (estrella ) o en "Añadir a Favoritos".  
-3. La canción se guardará automáticamente en tu lista de favoritos.
-1. Haz clic en "Audio" en la barra inferior.  
-2. Presiona el botón "Grabar" (micrófono blanco) para comenzar.  
-3. Cuando termines, presiona "Detener” para finalizar la grabación.  
-4. Tu audio se guardará automáticamente y podrás reproducirlo.  
-
-Pasos para Buscar:
-1. Haz clic en "Buscar" en la barra inferior.  
-2. Escribe el nombre de la canción, artista o álbum en el campo de búsqueda.  
-3. Selecciona el resultado que desees para:  
-   - Reproducir la canción.  
-   - Añadirla a Favoritos.  
-   - Explorar más canciones del mismo artista.
-
-     Si deseas cerrar sección , sigue estos pasos:  
+ Si deseas cerrar sección , sigue estos pasos:  
 
 1.	Dirígete al icono de puerta con flecha y después 
 2.	Serás redirigido a la pantalla de inicio de sesión.  
-
-
-
 
 ## 🛠️ Herramientas utilizadas
 REACT NATIVE Y API DEEZER
