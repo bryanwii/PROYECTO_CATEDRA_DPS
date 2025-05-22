@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Aplicación de música (usando Spotify API)</h1>
+<h1 align="center">🚀 Aplicación de música (usando DEEZER API)</h1>
 <p align="center"><em>“Transformando ideas en soluciones que brillan”</em></p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 
 ## 🧠 Sobre el proyecto
 
-🎵 **SPOTIFY**  🎵es una aplicación móvil desarrollada con la integración de la Spotify Web API.
+🎵 **OMARTIFY**  🎵es una aplicación móvil desarrollada con la integración de la Spotify Web API.
 Permite a los usuarios:
 
 Autenticarse con su cuenta de Spotify
@@ -38,7 +38,7 @@ Diseñada con 💎 calidad, ⚡ rendimiento y una interfaz tan suave que parece 
 ## 🖼️ Demo
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTIyYzE5NzcxMzNkMjZmNjUyY2EyYTljZjZhYmEzMmU5MWYwMzFiNCZjdD1n/3oKIP9LNlBmWikG1iQ/giphy.gif" alt="demo gif" width="600" />
+  <img src="https://drive.google.com/file/d/1-dHO_qgAMc3Ja5xRA_vh7EcdDm3aIrJc/view?usp=sharing" alt="demo gif" width="600" />
 </p>
 
 > 🔥 *Interfaz con animaciones suaves y carga rápida*
