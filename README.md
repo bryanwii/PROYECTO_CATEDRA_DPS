@@ -2,7 +2,7 @@
 <p align="center"><em>“Transformando ideas en soluciones que brillan”</em></p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGQ4ZTQ5OTRmZWZlN2NmMDA1NDViZTYxNjU2YjIwOTYzN2YwZDUwMyZjdD1n/f9k1tV7HyORcngKF8v/giphy.gif" alt="cool gif" width="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGQ4ZTQ5OTRmZWZlN2NmMDA1NDViZTYxNjU2YjIwOTYzN2YwZDUwMyZjdD1n/f9k1tV7HyORcngKF8v/giphy.gif" alt="cool gif" width="30" height="20"/>
 </p>
 
 ---
