@@ -38,12 +38,13 @@ Diseñada con 💎 calidad, ⚡ rendimiento y una interfaz tan suave que parece 
 ## 🖼️ Demo
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/1-dHO_qgAMc3Ja5xRA_vh7EcdDm3aIrJc/view?usp=sharing" alt="demo gif" width="600" />
+  <img src="https://github.com/bryanwii/PROYECTO_CATEDRA_DPS/raw/demo/Demo.gif" alt="demo gif" width="600" />
 </p>
 
 > 🔥 *Interfaz con animaciones suaves y carga rápida*
 
 ---
+
 ---
 
 ## 🎨 Equipo de desarrollo
