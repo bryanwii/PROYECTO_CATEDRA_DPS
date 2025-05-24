@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjhybWlqY3B5dGQ5b2VjZ3Q2N2V6ZzB6eGZ6eGZ6eGZ6eGZ6eGZ6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o85xIO33l7R0LR9Kw/giphy.gif" width="300px" alt="Music GIF"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGs3eW10NTJsemplMWFybjUyNzZ1aG5mdm10eXcxdWloNnZ5amQ1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OK914NO5d8ey9sSNAQ/giphy.gif" width="400" alt="Bienvenido al repositorio"/>
 </p>
 <h3 align="center">✨ La mejor experiencia musical en tus manos ✨</h3>
 
