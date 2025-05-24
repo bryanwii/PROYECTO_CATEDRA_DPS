@@ -23,7 +23,7 @@ export default function LoginScreen({ navigation, handleLoginApp }) {
 
     if (userFound) {
       await AsyncStorage.setItem('currentUser', JSON.stringify(userFound));
-      handleLoginApp(); // ← llamado correcto a App.js
+      handleLoginApp(); 
     } else {
       Alert.alert('Error', 'Usuario o contraseña incorrectos');
     }

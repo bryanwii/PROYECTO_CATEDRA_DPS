@@ -4,20 +4,39 @@ import { NavigationContainer } from '@react-navigation/native';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
 import AsyncStorage from '@react-native-async-storage/async-storage';
+import Ionicons from 'react-native-vector-icons/Ionicons';
 
 import BuscarSong from './buscarSong';
 import PlayList from './playList';
 import AudioScreen from './audio';
 
 import LoginScreen from './screens/LoginScreen';
-import RegisterScreen from './screens/RegistroScreen'; // ← este nombre está bien
+import RegisterScreen from './screens/RegistroScreen'; 
 
 const Tab = createBottomTabNavigator();
 const Stack = createNativeStackNavigator();
 
 function MainApp({ favoritos, agregarAFavoritos, eliminarDeFavoritos, handleLogout }) {
   return (
-    <Tab.Navigator>
+    <Tab.Navigator
+      screenOptions={({ route }) => ({
+        tabBarIcon: ({ focused, color, size }) => {
+          let iconName;
+
+          if (route.name === 'Buscar') {
+            iconName = focused ? 'search' : 'search-outline';
+          } else if (route.name === 'Favoritos') {
+            iconName = focused ? 'star' : 'star-outline';
+          } else if (route.name === 'Audio') {
+            iconName = focused ? 'mic' : 'mic-outline';
+          }
+
+          return <Ionicons name={iconName} size={size} color={color} />;
+        },
+        tabBarActiveTintColor: '#4F46E5',
+        tabBarInactiveTintColor: 'gray',
+      })}
+    >
       <Tab.Screen name='Buscar'>
         {() => <BuscarSong agregarAFavoritos={agregarAFavoritos} handleLogout={handleLogout} />}
       </Tab.Screen>
@@ -80,10 +99,9 @@ export default function App() {
   };
 
   const handleLogout = async () => {
-  await AsyncStorage.removeItem('currentUser');
-  setIsLoggedIn(false);
-};
-
+    await AsyncStorage.removeItem('currentUser');
+    setIsLoggedIn(false);
+  };
 
   return (
     <NavigationContainer>
@@ -101,11 +119,11 @@ export default function App() {
           </Stack.Screen>
         ) : (
           <>
-           <Stack.Screen name="Login">
+            <Stack.Screen name="Login">
               {({ navigation }) => (
-                <LoginScreen navigation={navigation} handleLoginApp={handleLogin} />)}
+                <LoginScreen navigation={navigation} handleLoginApp={handleLogin} />
+              )}
             </Stack.Screen>
-
             <Stack.Screen name="Registro" component={RegisterScreen} />
           </>
         )}
