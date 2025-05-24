@@ -22,7 +22,6 @@
 - [🛠️ Tech Stack](#️-tech-stack)
 - [🎥 Demo](#-demo)
 - [👥 Equipo](#-equipo)
-- [📦 Instalación](#-instalación)
 - [🗂️ Estructura del proyecto](#️-estructura-del-proyecto)
 - [🤝 Contribución](#-contribución)
 
