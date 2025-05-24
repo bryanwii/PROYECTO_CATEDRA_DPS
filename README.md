@@ -141,19 +141,17 @@
   </tr>
 </table>
 
----
-
-OMARTIFY/
-├── frontend/
-│   ├── assets/          # Recursos multimedia
-│   ├── components/      # Componentes reutilizables
-│   ├── screens/         # Pantallas principales
-│   ├── services/        # Lógica de conexión con API
-│   └── App.js           # Punto de entrada
-├── backend/
-│   ├── controllers/     # Lógica de endpoints
-│   ├── routes/          # Definición de rutas
-│   ├── models/          # Modelos de datos
-│   └── server.js        # Configuración del servidor
-├── docs/                # Documentación adicional
-└── README.md            # Este archivo
+## 🗂️ Estructura del proyecto
+```bash
+NombreDelProyecto/
+├── frontend/          # Aplicación React
+│   ├── src/
+│   │   ├── components/
+│   │   └── pages/
+├── backend/           # API REST con Express
+│   ├── controllers/
+│   ├── routes/
+│   └── config/
+├── database/          # Script y estructura de BD
+├── .env               # Configuración de entorno
+├── README.md          
