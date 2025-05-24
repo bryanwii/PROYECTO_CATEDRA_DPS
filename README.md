@@ -1,13 +1,20 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGQ4ZTQ5OTRmZWZlN2NmMDA1NDViZTYxNjU2YjIwOTYzN2YwZDUwMyZjdD1n/f9k1tV7HyORcngKF8v/giphy.gif" width="30px"/> 
-  OMARTIFY - Aplicación de música con Deezer API
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGQ4ZTQ5OTRmZWZlN2NmMDA1NDViZTYxNjU2YjIwOTYzN2YwZDUwMyZjdD1n/f9k1tV7HyORcngKF8v/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGQ4ZTQ5OTRmZWZlN2NmMDA1NDViZTYxNjU2YjIwOTYzN2YwZDUwMyZjdD1n/f9k1tV7HyORcngKF8v/giphy.gif" width="50px"/> 
+  🎵 BIENVENIDO A OMARTIFY 🎵
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGQ4ZTQ5OTRmZWZlN2NmMDA1NDViZTYxNjU2YjIwOTYzN2YwZDUwMyZjdD1n/f9k1tV7HyORcngKF8v/giphy.gif" width="50px"/>
 </h1>
 
 <p align="center">
-  <em>“Transformando ideas en soluciones que brillan” ✨</em>
+  <img src="https://media.giphy.com/media/XATW2OZR8Dd5wQ6qKU/giphy.gif" width="300px" alt="Welcome GIF"/>
 </p>
 
+<h3 align="center">✨ La mejor experiencia musical en tus manos ✨</h3>
+
+<p align="center">
+  <em>"Donde cada línea de código tiene ritmo y cada commit tiene armonía" 🎶</em>
+</p>
+
+---
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-FINALIZADO-brightgreen" alt="Status"/>
   <img src="https://img.shields.io/github/last-commit/bryanwii/PROYECTO_CATEDRA_DPS" alt="Último commit"/>
@@ -142,16 +149,24 @@
 </table>
 
 ## 🗂️ Estructura del proyecto
+
 ```bash
-NombreDelProyecto/
-├── frontend/          # Aplicación React
-│   ├── src/
-│   │   ├── components/
-│   │   └── screens/
-├── backend/           # API REST con Express
-│   ├── controller/
-│   ├── routes/
-│   └── config/
-├── database/          # Script y estructura de BD
-├── .env               # Configuración de entorno
-├── README.md          
+OMARTIFY/
+├── .expo/                  # Configuraciones de Expo
+├── assets/                 # Recursos multimedia
+│   ├── icons/              # Iconos de la aplicación
+│   └── sounds/             # Sonidos y efectos
+├── node_modules/           # Dependencias del proyecto
+├── screens/                # Pantallas principales
+│   ├── Reproductor.js      # Pantalla de reproducción
+│   ├── buscarSong.js       # Pantalla de búsqueda
+│   └── playList.js         # Pantalla de listas de reproducción
+├── components/             # Componentes reutilizables
+├── services/               # Servicios y lógica
+│   └── audio.js            # Manejo de grabación y reproducción
+├── App.js                  # Componente principal
+├── app.json                # Configuración de la app
+├── index.js                # Punto de entrada
+├── package.json            # Dependencias y scripts
+├── package-lock.json       # Versiones exactas de dependencias
+└── README.md               # Documentación del proyecto
