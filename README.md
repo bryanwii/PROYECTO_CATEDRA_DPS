@@ -86,16 +86,11 @@ Diseñada con 💎 calidad, ⚡ rendimiento y una interfaz tan suave que parece 
     </td>
      <td align="center">
      
-     
-
-## 🛠️ Instrucciones para Probar Nuevas Funcionalidades
-
-
+  ## 🛠️ Instrucciones para Probar Nuevas Funcionalidades
 ## 🛠️ Herramientas utilizadas
 REACT NATIVE Y API DEEZER
 
 ## 🗂️ Estructura del proyecto
-
 ```bash
 NombreDelProyecto/
 ├── frontend/          # Aplicación React
