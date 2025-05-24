@@ -1,105 +1,159 @@
-<h1 align="center">🚀 Aplicación de música (usando DEEZER API)</h1>
-<p align="center"><em>“Transformando ideas en soluciones que brillan”</em></p>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGQ4ZTQ5OTRmZWZlN2NmMDA1NDViZTYxNjU2YjIwOTYzN2YwZDUwMyZjdD1n/f9k1tV7HyORcngKF8v/giphy.gif" width="30px"/> 
+  OMARTIFY - Aplicación de música con Deezer API
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGQ4ZTQ5OTRmZWZlN2NmMDA1NDViZTYxNjU2YjIwOTYzN2YwZDUwMyZjdD1n/f9k1tV7HyORcngKF8v/giphy.gif" width="30px"/>
+</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGQ4ZTQ5OTRmZWZlN2NmMDA1NDViZTYxNjU2YjIwOTYzN2YwZDUwMyZjdD1n/f9k1tV7HyORcngKF8v/giphy.gif" alt="cool gif" width="30" height="20"/>
+  <em>“Transformando ideas en soluciones que brillan” ✨</em>
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-EN%20DESARROLLO-yellow" alt="Status"/>
+  <img src="https://img.shields.io/github/last-commit/bryanwii/PROYECTO_CATEDRA_DPS" alt="Último commit"/>
+  <img src="https://img.shields.io/github/repo-size/bryanwii/PROYECTO_CATEDRA_DPS" alt="Tamaño del repo"/>
+</p>
+
+---
+
+## 📌 Tabla de Contenidos
+- [🧠 Sobre el proyecto](#-sobre-el-proyecto)
+- [🚀 Características](#-características)
+- [🛠️ Tech Stack](#️-tech-stack)
+- [🎥 Demo](#-demo)
+- [👥 Equipo](#-equipo)
+- [📦 Instalación](#-instalación)
+- [🗂️ Estructura del proyecto](#️-estructura-del-proyecto)
+- [🤝 Contribución](#-contribución)
 
 ---
 
 ## 🧠 Sobre el proyecto
 
-🎵 **OMARTIFY**  🎵es una aplicación móvil desarrollada con la integración de la Spotify Web API.
-Permite a los usuarios:
+🎵 **OMARTIFY** es una aplicación móvil desarrollada con React Native que utiliza la **Deezer API** para ofrecer una experiencia musical completa.
 
-Autenticarse con su cuenta de Spotify
+**Principales funcionalidades:**
+- ✅ Autenticación con cuentas de Deezer
+- 🔍 Búsqueda avanzada de canciones, artistas y álbumes
+- ▶️ Reproducción de previews musicales
+- 🎧 Recomendaciones personalizadas según gustos
+- 📱 Interfaz intuitiva y responsive
 
-Buscar canciones, artistas y álbumes
-
-Reproducir previews de temas
-
-Explorar música recomendada según sus gustos  
-Diseñada con 💎 calidad, ⚡ rendimiento y una interfaz tan suave que parece mantequilla.
-
-> _💡 Este proyecto fue realizado como parte del curso de Diseño y Programación de Software Multiplataforma._  
-> _Incluye backend, frontend y uso de Apis._
+> _💡 Proyecto desarrollado como parte del curso de Diseño y Programación de Software Multiplataforma_
 
 ---
 
-## 🚨 Tech Stack
+## 🚀 Características
 
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-![Express](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+| Función            | Descripción                                                                 |
+|--------------------|-----------------------------------------------------------------------------|
+| **Reproducción**   | Control de playback con funciones básicas (play/pause, siguiente/anterior) |
+| **Favoritos**      | Sistema para marcar y gestionar canciones favoritas                        |
+| **Listas**         | Creación y edición de playlists personalizadas                             |
+| **Búsqueda**       | Filtrado por género, artista, álbum y más                                  |
+| **Perfil**         | Visualización de historial y estadísticas de escucha                       |
 
 ---
 
-## 🖼️ Demo
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://github.com/bryanwii/PROYECTO_CATEDRA_DPS/blob/demo/Demo%20(online-video-cutter.com).gif" alt="demo gif" width="600" />
+**Frontend:**
+<p>
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="25"/>
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" height="25"/>
 </p>
 
-> 🔥 *Interfaz con animaciones suaves y carga rápida*
+**Backend:**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="25"/>
+</p>
+
+**Base de datos:**
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
+</p>
+
+**API:**
+<p>
+  <img src="https://img.shields.io/badge/Deezer_API-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white" height="25"/>
+</p>
 
 ---
 
+## 🎥 Demo
+
+<p align="center">
+  <img src="https://github.com/bryanwii/PROYECTO_CATEDRA_DPS/blob/demo/Demo%20(online-video-cutter.com).gif" alt="Demo animada" width="300"/>
+</p>
+
+> 🔥 *Interfaz con animaciones fluidas y tiempos de carga optimizados*
+
 ---
 
-## 🎨 Equipo de desarrollo
-
-> Este proyecto no se construyó solo... ¡fue forjado con pasión por estos cracks del código! 👇
+## 👥 Equipo de desarrollo
 
 <table align="center">
   <tr>
-     </td>
     <td align="center">
-      <img src="https://github.com/OmarArturoGG.png" width="100px;" alt="Foto perfil GitHub"/>
-      <br />
-      <sub><b>Omar Maldonado</b></sub><br/>
-      <a href="https://github.com/OmarArturoGG" target="_blank">MG220764</a>
-    </td>
-    <td align="center">
-      <img src="https://github.com/Yesi-Hernandez.png" width="100px;" alt="Foto perfil GitHub"/>
-      <br />
-      <sub><b>Yesenia Hernandez</b></sub><br/>
-      <a href="https://github.com/Yesi-Hernandez" target="_blank">HP240153</a>
-    </td>
-  <td align="center">
-      <img src="https://github.com/Cristina-Lue.png" width="100px;" alt="Foto perfil GitHub"/>
-      <br />
-      <sub><b>Cristina Perez</b></sub><br/>
-      <a href="https://github.com/Cristina-Lue" target="_blank">Pl240092</a>
+      <a href="https://github.com/OmarArturoGG">
+        <img src="https://github.com/OmarArturoGG.png" width="100px;" alt="Omar"/>
+        <br/>
+        <sub><b>Omar Maldonado</b></sub><br/>
+        <span>MG220764</span>
+      </a>
     </td>
     <td align="center">
-      <img src="https://github.com/Isaaasanchezz123.png" width="100px;" alt="Foto perfil GitHub"/>
-      <br />
-      <sub><b>David Segura</b></sub><br/>
-      <a href="https://github.com/Isaaasanchezz123" target="_blank">SM232984</a>
+      <a href="https://github.com/Yesi-Hernandez">
+        <img src="https://github.com/Yesi-Hernandez.png" width="100px;" alt="Yesenia"/>
+        <br/>
+        <sub><b>Yesenia Hernandez</b></sub><br/>
+        <span>HP240153</span>
+      </a>
     </td>
-     <td align="center">
-      <img src="https://github.com/bryanwii.png" width="100px;" alt="Foto perfil GitHub"/>
-      <br />
-      <sub><b>Bryan Hernandez</b></sub><br/>
-      <a href="https://github.com/bryanwii" target="_blank">HA231511</a>
+    <td align="center">
+      <a href="https://github.com/Cristina-Lue">
+        <img src="https://github.com/Cristina-Lue.png" width="100px;" alt="Cristina"/>
+        <br/>
+        <sub><b>Cristina Perez</b></sub><br/>
+        <span>Pl240092</span>
+      </a>
     </td>
-     <td align="center">
-     
-  ## 🛠️ Instrucciones para Probar Nuevas Funcionalidades
-   ## 🛠️ Herramientas utilizadas
-   REACT NATIVE Y API DEEZER
-## 🗂️ Estructura del proyecto
-```bash
-NombreDelProyecto/
-├── frontend/          # Aplicación React
-│   ├── src/
-│   │   ├── components/
-│   │   └── pages/
-├── backend/           # API REST con Express
-│   ├── controllers/
-│   ├── routes/
-│   └── config/
-├── database/          # Script y estructura de BD
-├── .env               # Configuración de entorno
-├── README.md          
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Isaaasanchezz123">
+        <img src="https://github.com/Isaaasanchezz123.png" width="100px;" alt="David"/>
+        <br/>
+        <sub><b>David Segura</b></sub><br/>
+        <span>SM232984</span>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/bryanwii">
+        <img src="https://github.com/bryanwii.png" width="100px;" alt="Bryan"/>
+        <br/>
+        <sub><b>Bryan Hernandez</b></sub><br/>
+        <span>HA231511</span>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+OMARTIFY/
+├── frontend/
+│   ├── assets/          # Recursos multimedia
+│   ├── components/      # Componentes reutilizables
+│   ├── screens/         # Pantallas principales
+│   ├── services/        # Lógica de conexión con API
+│   └── App.js           # Punto de entrada
+├── backend/
+│   ├── controllers/     # Lógica de endpoints
+│   ├── routes/          # Definición de rutas
+│   ├── models/          # Modelos de datos
+│   └── server.js        # Configuración del servidor
+├── docs/                # Documentación adicional
+└── README.md            # Este archivo
