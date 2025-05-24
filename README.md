@@ -44,13 +44,15 @@
 
 ## 🚀 Características
 
-| Función            | Descripción                                                                 |
-|--------------------|-----------------------------------------------------------------------------|
-| **Reproducción**   | Control de playback con funciones básicas (play/pause, siguiente/anterior) |
-| **Favoritos**      | Sistema para marcar y gestionar canciones favoritas                        |
-| **Listas**         | Creación y edición de playlists personalizadas                             |
-| **Búsqueda**       | Filtrado por género, artista, álbum y más                                  |
-| **Perfil**         | Visualización de historial y estadísticas de escucha                       |
+| Función               | Descripción                                                                 |
+|-----------------------|-----------------------------------------------------------------------------|
+| **Reproducción**      | Control de playback con funciones básicas (play/pause, siguiente/anterior)  |
+| **Grabación de audio**| Permite grabar y guardar fragmentos de audio directamente desde la app 🎤    |
+| **Favoritos**         | Sistema completo para guardar y gestionar tu música favorita ❤️             |
+| **Listas**            | Creación y edición de playlists personalizadas                              |
+| **Búsqueda avanzada** | Filtrado por género, artista, álbum y más                                  |
+| **Perfil personal**   | Visualización de historial y estadísticas de escucha                       |
+| **Almacenamiento**    | Guarda tus canciones favoritas localmente para acceso offline 📁           |
 
 ---
 
