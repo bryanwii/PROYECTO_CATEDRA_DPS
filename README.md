@@ -89,32 +89,7 @@ Diseñada con 💎 calidad, ⚡ rendimiento y una interfaz tan suave que parece 
      
 
 ## 🛠️ Instrucciones para Probar Nuevas Funcionalidades
-Pasos para Iniciar Sesión:
-1. Abre la aplicación con expo  y encontrarás la **pantalla de Inicio de Sesión**.  
-2. Ingresa tus credenciales:  
-   - Usuario (nombre de usuario registrado).  
-   - Contraseña (asegúrate de que esté escrita correctamente).  
-Pasos para Registrarse (Nuevos Usuarios):  
-1. En la pantalla de Inicio de Sesión, selecciona la opción registrarse.  
-2. Completa el formulario con los siguientes datos:  
-   - Nombre de usuario.  
-    -Contraseña segura.    
-  GUARDAR CANCIONES
-  - Busca la canción que deseas guardar (usa la función "Buscar" si es necesario).  
-- Una vez que la encuentres, haz clic en el botón de "🌟" (estrella ) o en "Añadir a Favoritos".  
--. La canción se guardará automáticamente en tu lista de favoritos.
 
-
-GRABAR AUDIO
-. Haz clic en "Audio" en la barra inferior.  
--. Presiona el botón "Grabar" (micrófono blanco) para comenzar.  
--. Cuando termines, presiona "Detener” para finalizar la grabación.  
--. Tu audio se guardará automáticamente y podrás reproducirlo.  
-
- Si deseas cerrar sección , sigue estos pasos:  
-
-1.	Dirígete al icono de puerta con flecha y después 
-2.	Serás redirigido a la pantalla de inicio de sesión.  
 
 ## 🛠️ Herramientas utilizadas
 REACT NATIVE Y API DEEZER
