@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-EN%20DESARROLLO-yellow" alt="Status"/>
+  <img src="https://img.shields.io/badge/STATUS-FINALIZADO-brightgreen" alt="Status"/>
   <img src="https://img.shields.io/github/last-commit/bryanwii/PROYECTO_CATEDRA_DPS" alt="Último commit"/>
   <img src="https://img.shields.io/github/repo-size/bryanwii/PROYECTO_CATEDRA_DPS" alt="Tamaño del repo"/>
 </p>
