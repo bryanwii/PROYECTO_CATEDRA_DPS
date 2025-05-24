@@ -46,13 +46,12 @@
 
 | Función               | Descripción                                                                 |
 |-----------------------|-----------------------------------------------------------------------------|
-| **Reproducción**      | Control de playback con funciones básicas (play/pause, siguiente/anterior)  |
+| **Reproducción**      | Control de playback con funciones básicas (play/pause)  |
 | **Grabación de audio**| Permite grabar y guardar fragmentos de audio directamente desde la app 🎤    |
 | **Favoritos**         | Sistema completo para guardar y gestionar tu música favorita ❤️             |
-| **Listas**            | Creación y edición de playlists personalizadas                              |
+| **Listas**            | Puedes Agregar una playlist                             |
 | **Búsqueda avanzada** | Filtrado por género, artista, álbum y más                                  |
-| **Perfil personal**   | Visualización de historial y estadísticas de escucha                       |
-| **Almacenamiento**    | Guarda tus canciones favoritas localmente para acceso offline 📁           |
+
 
 ---
 
@@ -148,9 +147,9 @@ NombreDelProyecto/
 ├── frontend/          # Aplicación React
 │   ├── src/
 │   │   ├── components/
-│   │   └── pages/
+│   │   └── screens/
 ├── backend/           # API REST con Express
-│   ├── controllers/
+│   ├── controller/
 │   ├── routes/
 │   └── config/
 ├── database/          # Script y estructura de BD
